@@ -1,0 +1,41 @@
+Exp-8 Design a Programmable Digital
+Data Display system.
+Concept Used:-
+This Experiment shows how does the Liquid Crystal
+Display(LCD), works and how can it be programmed for the
+same.
+Working with LCD is quite hard but with the help of Libraries
+defined for the same, it makes the task easy to execute.There are
+16 pins on LCD which are used with a particular manner and for a
+particular purpose.
+Learning & Observations:-
+1. Connection between Aduino and Liquid Crystal Display.
+2. Coding to be done to execute the task.
+3. What pins are to be used to execute the task.
+4. Functioning of different pins on LCD and making the
+connection of the pins to arduino for the correct purpose.
+5. Basic understanding of Electrical Connections.
+6. Use of Potentiometric Wire.
+7. Coding and syntax used for execution.
+Problems & Troubleshooting:-
+The problems faced were only making the connection between
+arduino and LCD as it was quite complex and so loosed
+connection could not be found easily.
+Other than this, no problems occurred during the execution of the
+task.
+Precautions:-
+1. Use of Safety Measures.
+2. Using a multimeter to test whether the appliances used are
+in right condition.
+3. Making correct Electric Circuit and connections.
+4. Selecting the correct port for Arduino.
+5. Making tight connections.
+6. Using correct pins of LCD.
+Learning Outcomes:-
+During the execution of this task, I learned the working of Arduino
+with Liquid Crystal Display altogether, also the coding that is
+needed to be done for the execution of tasks.
+I learned how does the LCD is programmed and what libraries are
+needed to be included for the easy execution of the task.
+Result:-
+The whole Setup executed successfully and is ready to be used.
